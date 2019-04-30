@@ -1,1 +1,5 @@
-# kchoi123.github.io
+# Portfolio
+
+## Preview
+![Resume Preview](img/screen.png)
+
